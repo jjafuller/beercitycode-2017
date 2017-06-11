@@ -111,6 +111,43 @@
     * University of Michigan: Center for Positive Organizations (http://positiveorgs.bus.umich.edu/topics/positive-leadership/ 
     * UPenn: Authentic Happiness (questionnaire) (https://www.authentichappiness.sas.upenn.edu/)
 
+## The Art & Craft of Secrets: Using the Cryptographic Toolbox
+
+### Bruce Abernethy
+
+* Resources
+    * Threat Modeling Tool 2016 (Microsoft I think)
+    * OWASP Threat Dragon
+    * DevSkim
+    * PumaScan
+    * OWASP Zap
+    * BURP Suite
+    * YubiKey: https://www.yubico.com/
+    * Bash Bunny
+    * Red Team Field Manual
+    * Blue Team Field Manual
+
+## Don't Think When You Code
+
+### Joel Karr
+
+* Resources
+    * Music to Code By: http://mtcb.pwop.com/
+
+## How to win Mario Brothers (and write badass code)
+
+### Matt Kirk
+
+* Resources
+    * Weapons of Math Destruction by Cathy O'Neil
+
+## Docker for Developers
+
+### Keith Thompson
+
+* Resources
+    * Case Studies: https://microsoft.github.io/techcasestudies/
+
 ## Backlog
 
 * An R Primer - Make Better Decisions Using Data Science 
@@ -121,7 +158,6 @@
 * Keynote (Brilliance Publishing Keynote Hall)
 * Bundling for Modern Web Apps
 * Level up from Hardware Noob to Hardware Node
-* How to win Mario Brothers (and write badass code)
 * Don't Fear Failure
 * Supercharge Xamarin.Forms with custom renderers and animations
 * Intro to TypeScript
@@ -131,10 +167,8 @@
 * How an HTTP Request Becomes a Phone Call
 * Making ReactJS work with ASP.NET Core MVC
 * Lightweight Pub/Sub for Web Applications using MQTT
-* The Art & Craft of Secrets: Using the Cryptographic Toolbox
 * Become a Remote Working Pro
 * Life of a goat: Bridging the dev and ops gap
-* Docker for Developers
 * A Multi-Cloud Solution using Azure & AWS
 * Develop Yourself Through Meditation
 * Let's Learn CSS Grid
