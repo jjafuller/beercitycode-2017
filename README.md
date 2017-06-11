@@ -90,6 +90,27 @@
     * University of Michigan: Center for Positive Organizations (http://positiveorgs.bus.umich.edu/topics/positive-leadership/ 
     * UPenn: Authentic Happiness (questionnaire) (https://www.authentichappiness.sas.upenn.edu/)
 
+## The JavaScript Event Loop
+
+### Thomas Hunter II
+
+* Slides: https://thomashunter.name/presentations/javascript-event-loop-v5/#/
+
+## Don't Think When You Code
+
+### Joel Karr
+
+* Twitter: @joel_karr
+* Blog Post: http://www.joelkarr.com/dont-think-when-you-write-code/
+
+## Leveling up your bot with language intelligence!
+
+### Kevin Leung
+
+* Blog: http://kslhacks.com/
+* Luis AI: https://www.luis.ai/home/index
+* Example: https://github.com/KSLHacks/Bot_CardButtonDialog
+
 ## Backlog
 
 * An R Primer - Make Better Decisions Using Data Science 
@@ -100,7 +121,6 @@
 * Keynote (Brilliance Publishing Keynote Hall)
 * Bundling for Modern Web Apps
 * Level up from Hardware Noob to Hardware Node
-* The JavaScript Event Loop
 * How to win Mario Brothers (and write badass code)
 * Don't Fear Failure
 * Supercharge Xamarin.Forms with custom renderers and animations
@@ -115,12 +135,10 @@
 * Become a Remote Working Pro
 * Life of a goat: Bridging the dev and ops gap
 * Docker for Developers
-* Don't Think When You Code
 * A Multi-Cloud Solution using Azure & AWS
 * Develop Yourself Through Meditation
 * Let's Learn CSS Grid
 * Embrace the Suck: Thoughts on Perseverance from a Junior Dev
-* Leveling up your bot with language intelligence!
 * Fun with Application Security
 * Building a Multi-User Todo App with React Native, Swagger, and Couchbase Mobile
 * A Fundamental Formula for Microservices using Docker
