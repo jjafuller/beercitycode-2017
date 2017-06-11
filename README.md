@@ -20,6 +20,13 @@
 * Slides: https://speakerdeck.com/nbarbettini/building-beautiful-rest-apis-in-asp-dot-net-core
 * Examples: https://github.com/nbarbettini/BeautifulRestApi
 
+## Don't Think When You Code
+
+### Joel Karr
+
+* Twitter: @joel_karr
+* Blog Post: http://www.joelkarr.com/dont-think-when-you-write-code/
+
 ## From Dull to Dazzling: How Visualization enhances data comprehension
 
 ### Walt Ritscher
@@ -31,6 +38,12 @@
 ### Steve Grunwell
 
 * Slides: https://github.com/stevegrunwell/write-some-docs
+
+## JavaScript Event Loop, The
+
+### Thomas Hunter II
+
+* Slides: https://thomashunter.name/presentations/javascript-event-loop-v5/#/
 
 ## JSON Web Tokens Will Improve Your Life
 
@@ -58,6 +71,14 @@
     * How to Win Friends and Influence People, Dale Carnegie 
     * Ego is the Enemy, Ryan Holiday 
     * Strengths Based Leadership, Tom Path 
+
+## Leveling up your bot with language intelligence!
+
+### Kevin Leung
+
+* Blog: http://kslhacks.com/
+* Luis AI: https://www.luis.ai/home/index
+* Example: https://github.com/KSLHacks/Bot_CardButtonDialog
 
 ## LINQPad: More than a Scratchpad
 
@@ -89,27 +110,6 @@
     * Flow Genome Project (http://www.flowgenomeproject.com) 
     * University of Michigan: Center for Positive Organizations (http://positiveorgs.bus.umich.edu/topics/positive-leadership/ 
     * UPenn: Authentic Happiness (questionnaire) (https://www.authentichappiness.sas.upenn.edu/)
-
-## The JavaScript Event Loop
-
-### Thomas Hunter II
-
-* Slides: https://thomashunter.name/presentations/javascript-event-loop-v5/#/
-
-## Don't Think When You Code
-
-### Joel Karr
-
-* Twitter: @joel_karr
-* Blog Post: http://www.joelkarr.com/dont-think-when-you-write-code/
-
-## Leveling up your bot with language intelligence!
-
-### Kevin Leung
-
-* Blog: http://kslhacks.com/
-* Luis AI: https://www.luis.ai/home/index
-* Example: https://github.com/KSLHacks/Bot_CardButtonDialog
 
 ## Backlog
 
