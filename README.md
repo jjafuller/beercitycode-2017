@@ -20,6 +20,12 @@
 * Slides: https://speakerdeck.com/nbarbettini/building-beautiful-rest-apis-in-asp-dot-net-core
 * Examples: https://github.com/nbarbettini/BeautifulRestApi
 
+## Docker for Developers
+
+### Keith Thompson
+
+* Classes he offers: https://courses.coderjourney.com
+
 ## Don't Think When You Code
 
 ### Joel Karr
@@ -34,6 +40,13 @@
 ### Walt Ritscher
 
 * Slides: https://www.slideshare.net/WaltRitscher/data-viz-resources-59382911
+
+## Fundamental Formula for Microservices using Docker, A
+
+### Ian Philpot
+
+* Resources
+    * Case Studies: https://microsoft.github.io/techcasestudies/
 
 ## How to win Mario Brothers (and write badass code)
 
@@ -136,13 +149,6 @@
     * Red Team Field Manual
     * Blue Team Field Manual
 
-## Docker for Developers
-
-### Keith Thompson
-
-* Resources
-    * Case Studies: https://microsoft.github.io/techcasestudies/
-
 ## Backlog
 
 * An R Primer - Make Better Decisions Using Data Science 
@@ -170,5 +176,4 @@
 * Embrace the Suck: Thoughts on Perseverance from a Junior Dev
 * Fun with Application Security
 * Building a Multi-User Todo App with React Native, Swagger, and Couchbase Mobile
-* A Fundamental Formula for Microservices using Docker
 * Developing for Apple Watch with Swift
