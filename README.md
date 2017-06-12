@@ -1,5 +1,21 @@
 # Beer City Code 2017
 
+## Art & Craft of Secrets: Using the Cryptographic Toolbox, Art
+
+### Bruce Abernethy
+
+* Resources
+    * Threat Modeling Tool 2016 (Microsoft I think)
+    * OWASP Threat Dragon
+    * DevSkim
+    * PumaScan
+    * OWASP Zap
+    * BURP Suite
+    * YubiKey: https://www.yubico.com/
+    * Bash Bunny
+    * Red Team Field Manual
+    * Blue Team Field Manual
+
 ## Automating Your Test Suite: Incrementally Eating the Elephant
 
 ### Gary Pedretti
@@ -132,22 +148,6 @@
     * Flow Genome Project (http://www.flowgenomeproject.com) 
     * University of Michigan: Center for Positive Organizations (http://positiveorgs.bus.umich.edu/topics/positive-leadership/ 
     * UPenn: Authentic Happiness (questionnaire) (https://www.authentichappiness.sas.upenn.edu/)
-
-## The Art & Craft of Secrets: Using the Cryptographic Toolbox
-
-### Bruce Abernethy
-
-* Resources
-    * Threat Modeling Tool 2016 (Microsoft I think)
-    * OWASP Threat Dragon
-    * DevSkim
-    * PumaScan
-    * OWASP Zap
-    * BURP Suite
-    * YubiKey: https://www.yubico.com/
-    * Bash Bunny
-    * Red Team Field Manual
-    * Blue Team Field Manual
 
 ## Backlog
 
