@@ -26,12 +26,21 @@
 
 * Twitter: @joel_karr
 * Blog Post: http://www.joelkarr.com/dont-think-when-you-write-code/
+* Resources
+    * Music to Code By: http://mtcb.pwop.com/
 
 ## From Dull to Dazzling: How Visualization enhances data comprehension
 
 ### Walt Ritscher
 
 * Slides: https://www.slideshare.net/WaltRitscher/data-viz-resources-59382911
+
+## How to win Mario Brothers (and write badass code)
+
+### Matt Kirk
+
+* Resources
+    * Weapons of Math Destruction by Cathy O'Neil
 
 ## I'd Like to Write the World Some Docs
 
@@ -126,20 +135,6 @@
     * Bash Bunny
     * Red Team Field Manual
     * Blue Team Field Manual
-
-## Don't Think When You Code
-
-### Joel Karr
-
-* Resources
-    * Music to Code By: http://mtcb.pwop.com/
-
-## How to win Mario Brothers (and write badass code)
-
-### Matt Kirk
-
-* Resources
-    * Weapons of Math Destruction by Cathy O'Neil
 
 ## Docker for Developers
 
