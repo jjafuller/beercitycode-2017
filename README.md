@@ -36,6 +36,13 @@
 * Slides: https://speakerdeck.com/nbarbettini/building-beautiful-rest-apis-in-asp-dot-net-core
 * Examples: https://github.com/nbarbettini/BeautifulRestApi
 
+## Continuous Deployment using GitHub, CircleCI, and Heroku
+
+### Jace Browning
+
+* Slides: https://speakerdeck.com/jacebrowning/continuous-deployment-using-github-circleci-and-heroku
+* Demo: https://github.com/jacebrowning/webcalc
+
 ## Docker for Developers
 
 ### Keith Thompson
@@ -153,7 +160,6 @@
 
 * An R Primer - Make Better Decisions Using Data Science 
 * Build an ASP.NET Core app without Windows
-* Continuous Deployment using GitHub, CircleCI, and Heroku
 * Web Analytics for Developers
 * Building an Offline First App that Syncs
 * Keynote (Brilliance Publishing Keynote Hall)
